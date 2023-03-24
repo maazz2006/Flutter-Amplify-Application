@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "foodiefinalyearproje",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-12-09T20:38:23.196Z"
+}

@@ -1,0 +1,21 @@
+{
+    "appName": "foodiefinalyearproje",
+    "roleName": "pinpointLambdaRole31b76961",
+    "cloudformationPolicyName": "cloudformationPolicy31b76961",
+    "cloudWatchPolicyName": "cloudWatchPolicy31b76961",
+    "pinpointPolicyName": "pinpointPolicy31b76961",
+    "authPolicyName": "pinpoint_amplify_31b76961",
+    "unauthPolicyName": "pinpoint_amplify_31b76961",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

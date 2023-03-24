@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-foodiefinalyearproje-dev-152158-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373723705005:role/amplify-foodiefinalyearproje-dev-152158-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373723705005:role/amplify-foodiefinalyearproje-dev-152158-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-foodiefinalyearproje-dev-152158-deployment",
+      "UnauthRoleName": "amplify-foodiefinalyearproje-dev-152158-unauthRole",
+      "StackName": "amplify-foodiefinalyearproje-dev-152158",
+      "StackId": "arn:aws:cloudformation:us-east-1:373723705005:stack/amplify-foodiefinalyearproje-dev-152158/80a88c90-6f06-11ed-98b1-0eb7113ca72d",
+      "AmplifyAppId": "d16mqi5vs62gdo"
+    },
+    "categories": {
+      "auth": {
+        "foodiefinalyearproje445fb9f5445fb9f5": {},
+        "userPoolGroups": {}
+      },
+      "analytics": {
+        "foodiefinalyearproje": {}
+      },
+      "api": {
+        "foodiefinalyearproje": {}
+      }
+    }
+  }
+}
